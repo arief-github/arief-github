@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=arief-github&color=000000&label=Profile+Visit's)
 
 <p align="center">
-  <img src="https://ibb.co/QNTvDQh" width="200"/>
+  <img src="https://i.ibb.co/QNTvDQh/please-dont-go.jpg" alt="please-dont-go" border="0" width="200"/>
 </p>
 
 

@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=arief-github&color=000000&label=Profile+Visit's)
+
+<p align="center">
+  <img src="https://ibb.co/QNTvDQh" width="200"/>
+</p>
+
+
 <!--
 **arief-github/arief-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

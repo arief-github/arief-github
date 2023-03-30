@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hello 🙌 My name is Arief Kurniawan, and I am currently learning, developing, and working as a Front-End Web Developer. I am very excited and challenged by learning web programming. I am also learning to be a Back-End Web Developer using Node.js and Laravel. I hope to become a Full-Stack Web Developer.
+I'm Arief Kurniawan, a front end web developer and web developer. I have a passion for building great products and helping others succeed. I love working on challenging technical problems and constantly learning new things to keep my skills sharp.
 
+Connect with me on LinkedIn!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-kurniawan-1b79aa234) 
